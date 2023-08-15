@@ -1,1 +1,1 @@
-# billsplit
+This is a simple website developed to take inputs in format of groups with their names and all their bills along with their contributions to split hte bill acoordingly and show the outstanding balances along with individual transactions that sums up the individual bill according to their spends 
